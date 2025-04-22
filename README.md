@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=harshitk04&label=Profile%20views&color=0e75b6&style=flat" alt="harshitk04" />
 </p>
 
-<h2 align="center">About Me....</h2>
+<h2 align="center">About Me.....</h2>
 
 <p align="center">
   🚀 Diving into the world of AI and Web Dev since 2023.<br>
