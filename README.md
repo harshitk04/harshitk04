@@ -2,10 +2,6 @@
 
 <p align="center">I'm Harshit Kumar, a 2nd-year student at IIT Roorkee passionate about exploring the realms of Deep Learning, Generative AI, Machine Learning, and crafting robust web applications.</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshitk04&label=Profile%20views&color=0e75b6&style=flat" alt="harshitk04" />
-</p>
-
 <h2 align="center">About Me.....</h2>
 
 <p align="center">
